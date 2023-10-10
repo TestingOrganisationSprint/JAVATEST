@@ -1,0 +1,2 @@
+![Embold](http://3.72.41.7:4444/api/badges?repository_uid=95c05e8db8f07cb035c4c40027665f1b&type=rating&token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY5NjkxNTc3OTc3MSwiaWF0IjoxNjk2OTE1Nzc5fQ.B7Idk5fU9R09Neo7S2McFGuFbGUwUz7PmCMtuJo1KMgE66cpLg1KSyKponSTF7ry8IUsG-YVCzdGrvf5GXC-Zw)
+
