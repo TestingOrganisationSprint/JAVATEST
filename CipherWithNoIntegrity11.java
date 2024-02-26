@@ -1,6 +1,6 @@
 package javacodechecker;
 
-public class CipherWithNoIntegrity {
+public class CipherWithNoIntegrity11 {
 	public void md () {
 		// EMB-ISSUE: CodeIssueNames.CIPHER_WITH_NO_INTEGRITY
     Cipher c = Cipher.getInstance("AES/CBC/PKCS5Padding");
