@@ -11,6 +11,7 @@ public class ComparisionOfObjectReferencesInsteadOfObjectContents {
 		
 		String name = "manasi";
 		String myname = "mansi";
+		String lastname="vikrant";
 		compareName(name, myname);
 	}
 	
