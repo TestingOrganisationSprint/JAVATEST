@@ -18,8 +18,10 @@ public class ReturnInFinallyBlock {
         {
             if(true)
             {
+
+                 System.out.println("Hi");
                 return;
-                System.out.println("Hi");
+               
             }
         }
 
