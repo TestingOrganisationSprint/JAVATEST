@@ -6,6 +6,7 @@ public class ReturnInFinallyBlock {
         // EMB-ISSUE: CodeIssueNames.RETURN_IN_FINALLY_BLOCK
         try
         {
+            int i;
             throw new IllegalArgumentException();
 
             
