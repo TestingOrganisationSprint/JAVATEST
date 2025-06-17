@@ -3,6 +3,8 @@ public class Multiply {
         int x=99;
 
          System.out.print("value of x is:" + x);
+          System.out.print("value of x is:" + x);
+          System.out.print("value of x is:" + x);
         return a * b;
     }
 }
