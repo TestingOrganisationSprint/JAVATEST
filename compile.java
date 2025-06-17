@@ -3,7 +3,7 @@ public class compile{
 
 	 int GenerateRandomValue(){
 
-		 int x=0;
+		 //int x=0;
 		 
 		 System.out.print("print");
 		 System.out.print("print");
