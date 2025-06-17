@@ -10,20 +10,7 @@ public class compile{
 		 System.out.print("print");
 		  System.out.print("print");
 		 System.out.print("print");
-		  System.out.print("print");
-		 System.out.print("print");
-		  System.out.print("print");
-		 System.out.print("print");
-		  System.out.print("print");
-		 System.out.print("print");
-		  System.out.print("print");
-		 System.out.print("print");
-		  System.out.print("print");
-		 System.out.print("print");
-		  System.out.print("print");
-		 System.out.print("print");
-		  System.out.print("print");
-		 System.out.print("print");
+		
 		 
         return secureRandom.nextInt();
     }
