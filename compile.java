@@ -4,10 +4,8 @@ public class compile{
 	 int GenerateRandomValue(){
 		 System.out.print("print");
 		 System.out.print("print");
-		  System.out.print("print");
-		 System.out.print("print");
-		   System.out.print("print");
-		 System.out.print("print");
+		 	 System.out.print("Code issue added");
+		
         return secureRandom.nextInt();
     }
 }
