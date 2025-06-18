@@ -4,6 +4,10 @@ public class compile{
 	 int GenerateRandomValue(){
 		 System.out.print("print");
 		 System.out.print("print");
+		  System.out.print("print");
+		 System.out.print("print");
+		  System.out.print("print");
+		 System.out.print("print");
         return secureRandom.nextInt();
     }
 }
