@@ -2,12 +2,8 @@ public class compile{
 	static final SecureRandom secureRandom = new SecureRandom();
 
 	 int GenerateRandomValue(){
-		 System.out.print("print");
-		 System.out.print("print");
-		  System.out.print("print");
-		 System.out.print("print");
-		   System.out.print("print");
-		 System.out.print("print");
+	//int x=0;
+		
         return secureRandom.nextInt();
     }
 }
