@@ -8,6 +8,7 @@ public class FinalizeMethodDeclarePublic1 extends Applet {
 	    try {
 
 	        close();
+		    //comment added
 
 	    } catch(Exception e) {
 
