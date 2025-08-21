@@ -9,6 +9,8 @@ public class AvoidUsingPredictableRandomValuesComplientCode {
     static final SecureRandom secureRandom = new SecureRandom();
     String randommethod(){
 
+        int x;
+            
         // EMB-ISSUE: CodeIssueNames.AVOID_USING_PREDICTABLE_RANDOM_VALUES/no-detect
         int randomValue = secureRandom.nextInt(); 
 
